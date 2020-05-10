@@ -4,17 +4,10 @@ from matplotlib import ticker
 from matplotlib import font_manager as fm
 
 
-def translate_sentence(
-        sentence,
-        src_vocab,
-        trg_vocab,
-        model,
-        device,
-        max_len=50
-):
+def translate_sentence(sentence, src_vocab, trg_vocab, model, device, max_len=50):
     model.eval()
 
-    tokens = ['<sos>'] + sentence + ['<eos>']
+    tokens = ["<sos>"] + sentence + ["<eos>"]
 
     src_indexes = [src_vocab.stoi[token] for token in tokens]
 
@@ -25,7 +18,7 @@ def translate_sentence(
     with torch.no_grad():
         enc_src = model.encoder(src_tensor, src_mask)
 
-    trg_indexes = [trg_vocab.stoi['<sos>']]
+    trg_indexes = [trg_vocab.stoi["<sos>"]]
 
     for _ in range(max_len):
 
@@ -40,7 +33,7 @@ def translate_sentence(
 
         trg_indexes.append(pred_token)
 
-        if pred_token == trg_vocab.stoi['<eos>']:
+        if pred_token == trg_vocab.stoi["<eos>"]:
             break
 
     trg_tokens = [trg_vocab.itos[i] for i in trg_indexes]
@@ -53,16 +46,16 @@ def get_odia_prop(font_path):
 
 
 def display_attention(
-        sentence,
-        translation,
-        attention,
-        n_heads=8,
-        n_rows=4,
-        n_cols=2,
-        font_path='fonts/OR51_Ananta.ttf'
+    sentence,
+    translation,
+    attention,
+    n_heads=8,
+    n_rows=4,
+    n_cols=2,
+    font_path="fonts/OR51_Ananta.ttf",
 ):
     if n_rows * n_cols != n_heads:
-        raise AssertionError('n_rows * n_cols != n_heads')
+        raise AssertionError("n_rows * n_cols != n_heads")
 
     fig = plt.figure(figsize=(15, 25))
 
@@ -71,13 +64,11 @@ def display_attention(
 
         attention_np = attention.squeeze(0)[i - 1].cpu().detach().numpy()
 
-        _ = ax.matshow(attention_np, cmap='Oranges')
+        _ = ax.matshow(attention_np, cmap="Oranges")
 
         ax.tick_params(labelsize=12)
-        ax.set_xticklabels([''] + ['<sos>'] + sentence + ['<eos>'],
-                           rotation=45)
-        ax.set_yticklabels([''] + translation,
-                           fontproperties=get_odia_prop(font_path))
+        ax.set_xticklabels([""] + ["<sos>"] + sentence + ["<eos>"], rotation=45)
+        ax.set_yticklabels([""] + translation, fontproperties=get_odia_prop(font_path))
 
         ax.xaxis.set_major_locator(ticker.MultipleLocator(1))
         ax.yaxis.set_major_locator(ticker.MultipleLocator(1))
@@ -91,7 +82,7 @@ def tokenize_src(src_str, bpe_src):
 
 
 def detokenize_trg(trg_tokens, bpe_trg):
-    if trg_tokens[-1] == '<eos>':
+    if trg_tokens[-1] == "<eos>":
         trg_tokens = trg_tokens[:-1]
     return bpe_trg.decode_pieces(trg_tokens)
 
@@ -102,34 +93,25 @@ if __name__ == "__main__":
 
     # load tokenizers
     _sp_bpe_src, _sp_bpe_trg = load_tokenizers(
-        'models/bpe_en.model',
-        'models/bpe_od.model'
+        "models/bpe_en.model", "models/bpe_od.model"
     )
 
     # load vocab
-    _SRC_vocab, _TRG_vocab = load_vocab(
-        'models/SRC_vocab.pkl',
-        'models/TRG_vocab.pkl'
-    )
+    _SRC_vocab, _TRG_vocab = load_vocab("models/SRC_vocab.pkl", "models/TRG_vocab.pkl")
 
     # load model
-    _model = load_model('models/model.pt', _SRC_vocab, _TRG_vocab)
+    _model = load_model("models/model.pt", _SRC_vocab, _TRG_vocab)
 
     # sample sentence
-    _sentence = 'music'
+    _sentence = "music"
 
     # tokenize
     _sentence = tokenize_src(_sentence, _sp_bpe_src)
 
     # translate
-    _translation, _attention = \
-        translate_sentence(
-            _sentence,
-            _SRC_vocab,
-            _TRG_vocab,
-            _model,
-            _model.device
-        )
+    _translation, _attention = translate_sentence(
+        _sentence, _SRC_vocab, _TRG_vocab, _model, _model.device
+    )
 
     # detokenize
     print(detokenize_trg(_translation, _sp_bpe_trg))

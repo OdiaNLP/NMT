@@ -3,17 +3,19 @@ import torch.nn as nn
 
 
 class Encoder(nn.Module):
-    def __init__(self,
-                 input_dim,
-                 hid_dim,
-                 n_layers,
-                 n_heads,
-                 pf_dim,
-                 encoder_layer,
-                 self_attention_layer,
-                 positionwise_feedforward_layer,
-                 dropout,
-                 device):
+    def __init__(
+        self,
+        input_dim,
+        hid_dim,
+        n_layers,
+        n_heads,
+        pf_dim,
+        encoder_layer,
+        self_attention_layer,
+        positionwise_feedforward_layer,
+        dropout,
+        device,
+    ):
         super().__init__()
 
         self.device = device
@@ -21,14 +23,20 @@ class Encoder(nn.Module):
         self.tok_embedding = nn.Embedding(input_dim, hid_dim)
         self.pos_embedding = nn.Embedding(1000, hid_dim)
 
-        self.layers = nn.ModuleList([encoder_layer(hid_dim,
-                                                   n_heads,
-                                                   pf_dim,
-                                                   self_attention_layer,
-                                                   positionwise_feedforward_layer,
-                                                   dropout,
-                                                   device)
-                                     for _ in range(n_layers)])
+        self.layers = nn.ModuleList(
+            [
+                encoder_layer(
+                    hid_dim,
+                    n_heads,
+                    pf_dim,
+                    self_attention_layer,
+                    positionwise_feedforward_layer,
+                    dropout,
+                    device,
+                )
+                for _ in range(n_layers)
+            ]
+        )
 
         self.dropout = nn.Dropout(dropout)
 
@@ -41,11 +49,15 @@ class Encoder(nn.Module):
         batch_size = src.shape[0]
         src_len = src.shape[1]
 
-        pos = torch.arange(0, src_len).unsqueeze(0).repeat(batch_size, 1).to(self.device)
+        pos = (
+            torch.arange(0, src_len).unsqueeze(0).repeat(batch_size, 1).to(self.device)
+        )
 
         # pos = [batch size, src len]
 
-        src = self.dropout((self.tok_embedding(src) * self.scale) + self.pos_embedding(pos))
+        src = self.dropout(
+            (self.tok_embedding(src) * self.scale) + self.pos_embedding(pos)
+        )
 
         # src = [batch size, src len, hid dim]
 
@@ -58,21 +70,23 @@ class Encoder(nn.Module):
 
 
 class EncoderLayer(nn.Module):
-    def __init__(self,
-                 hid_dim,
-                 n_heads,
-                 pf_dim,
-                 self_attention_layer,
-                 positionwise_feedforward_layer,
-                 dropout,
-                 device):
+    def __init__(
+        self,
+        hid_dim,
+        n_heads,
+        pf_dim,
+        self_attention_layer,
+        positionwise_feedforward_layer,
+        dropout,
+        device,
+    ):
         super().__init__()
 
         self.layer_norm = nn.LayerNorm(hid_dim)
         self.self_attention = self_attention_layer(hid_dim, n_heads, dropout, device)
-        self.positionwise_feedforward = positionwise_feedforward_layer(hid_dim,
-                                                                       pf_dim,
-                                                                       dropout)
+        self.positionwise_feedforward = positionwise_feedforward_layer(
+            hid_dim, pf_dim, dropout
+        )
         self.dropout = nn.Dropout(dropout)
 
     def forward(self, src, src_mask):
@@ -100,7 +114,7 @@ class SelfAttentionLayer(nn.Module):
         super().__init__()
 
         if hid_dim % n_heads != 0:
-            raise AssertionError('hid_dim % n_head != 0')
+            raise AssertionError("hid_dim % n_head != 0")
 
         self.hid_dim = hid_dim
         self.n_heads = n_heads
@@ -193,17 +207,19 @@ class PositionwiseFeedforwardLayer(nn.Module):
 
 
 class Decoder(nn.Module):
-    def __init__(self,
-                 output_dim,
-                 hid_dim,
-                 n_layers,
-                 n_heads,
-                 pf_dim,
-                 decoder_layer,
-                 self_attention_layer,
-                 positionwise_feedforward_layer,
-                 dropout,
-                 device):
+    def __init__(
+        self,
+        output_dim,
+        hid_dim,
+        n_layers,
+        n_heads,
+        pf_dim,
+        decoder_layer,
+        self_attention_layer,
+        positionwise_feedforward_layer,
+        dropout,
+        device,
+    ):
         super().__init__()
 
         self.device = device
@@ -211,14 +227,20 @@ class Decoder(nn.Module):
         self.tok_embedding = nn.Embedding(output_dim, hid_dim)
         self.pos_embedding = nn.Embedding(1000, hid_dim)
 
-        self.layers = nn.ModuleList([decoder_layer(hid_dim,
-                                                   n_heads,
-                                                   pf_dim,
-                                                   self_attention_layer,
-                                                   positionwise_feedforward_layer,
-                                                   dropout,
-                                                   device)
-                                     for _ in range(n_layers)])
+        self.layers = nn.ModuleList(
+            [
+                decoder_layer(
+                    hid_dim,
+                    n_heads,
+                    pf_dim,
+                    self_attention_layer,
+                    positionwise_feedforward_layer,
+                    dropout,
+                    device,
+                )
+                for _ in range(n_layers)
+            ]
+        )
 
         self.fc_out = nn.Linear(hid_dim, output_dim)
 
@@ -235,11 +257,15 @@ class Decoder(nn.Module):
         batch_size = trg.shape[0]
         trg_len = trg.shape[1]
 
-        pos = torch.arange(0, trg_len).unsqueeze(0).repeat(batch_size, 1).to(self.device)
+        pos = (
+            torch.arange(0, trg_len).unsqueeze(0).repeat(batch_size, 1).to(self.device)
+        )
 
         # pos = [batch size, trg len]
 
-        trg = self.dropout((self.tok_embedding(trg) * self.scale) + self.pos_embedding(pos))
+        trg = self.dropout(
+            (self.tok_embedding(trg) * self.scale) + self.pos_embedding(pos)
+        )
 
         # trg = [batch size, trg len, hid dim]
 
@@ -257,22 +283,24 @@ class Decoder(nn.Module):
 
 
 class DecoderLayer(nn.Module):
-    def __init__(self,
-                 hid_dim,
-                 n_heads,
-                 pf_dim,
-                 self_attention_layer,
-                 positionwise_feedforward_layer,
-                 dropout,
-                 device):
+    def __init__(
+        self,
+        hid_dim,
+        n_heads,
+        pf_dim,
+        self_attention_layer,
+        positionwise_feedforward_layer,
+        dropout,
+        device,
+    ):
         super().__init__()
 
         self.layer_norm = nn.LayerNorm(hid_dim)
         self.self_attention = self_attention_layer(hid_dim, n_heads, dropout, device)
         self.encoder_attention = self_attention_layer(hid_dim, n_heads, dropout, device)
-        self.positionwise_feedforward = positionwise_feedforward_layer(hid_dim,
-                                                                       pf_dim,
-                                                                       dropout)
+        self.positionwise_feedforward = positionwise_feedforward_layer(
+            hid_dim, pf_dim, dropout
+        )
         self.dropout = nn.Dropout(dropout)
 
     def forward(self, trg, enc_src, trg_mask, src_mask):
@@ -307,13 +335,7 @@ class DecoderLayer(nn.Module):
 
 
 class Seq2Seq(nn.Module):
-    def __init__(self,
-                 encoder,
-                 decoder,
-                 src_pad_idx,
-                 trg_pad_idx,
-                 trg_sos_idx,
-                 device):
+    def __init__(self, encoder, decoder, src_pad_idx, trg_pad_idx, trg_sos_idx, device):
         super().__init__()
 
         self.encoder = encoder
@@ -341,7 +363,9 @@ class Seq2Seq(nn.Module):
 
         trg_len = trg.shape[1]
 
-        trg_sub_mask = torch.tril(torch.ones((trg_len, trg_len), device=self.device)).bool()
+        trg_sub_mask = torch.tril(
+            torch.ones((trg_len, trg_len), device=self.device)
+        ).bool()
 
         # trg_sub_mask = [trg len, trg len]
 
@@ -374,7 +398,7 @@ class Seq2Seq(nn.Module):
 
 
 def load_model(ckpt_path, SRC_vocab, TRG_vocab):
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     INPUT_DIM = len(SRC_vocab)
     OUTPUT_DIM = len(TRG_vocab)
     HID_DIM = 128
@@ -387,39 +411,43 @@ def load_model(ckpt_path, SRC_vocab, TRG_vocab):
     ENC_DROPOUT = 0.1
     DEC_DROPOUT = 0.1
 
-    enc = Encoder(INPUT_DIM,
-                  HID_DIM,
-                  ENC_LAYERS,
-                  ENC_HEADS,
-                  ENC_PF_DIM,
-                  EncoderLayer,
-                  SelfAttentionLayer,
-                  PositionwiseFeedforwardLayer,
-                  ENC_DROPOUT,
-                  device)
+    enc = Encoder(
+        INPUT_DIM,
+        HID_DIM,
+        ENC_LAYERS,
+        ENC_HEADS,
+        ENC_PF_DIM,
+        EncoderLayer,
+        SelfAttentionLayer,
+        PositionwiseFeedforwardLayer,
+        ENC_DROPOUT,
+        device,
+    )
 
-    dec = Decoder(OUTPUT_DIM,
-                  HID_DIM,
-                  DEC_LAYERS,
-                  DEC_HEADS,
-                  DEC_PF_DIM,
-                  DecoderLayer,
-                  SelfAttentionLayer,
-                  PositionwiseFeedforwardLayer,
-                  DEC_DROPOUT,
-                  device)
+    dec = Decoder(
+        OUTPUT_DIM,
+        HID_DIM,
+        DEC_LAYERS,
+        DEC_HEADS,
+        DEC_PF_DIM,
+        DecoderLayer,
+        SelfAttentionLayer,
+        PositionwiseFeedforwardLayer,
+        DEC_DROPOUT,
+        device,
+    )
 
-    SRC_PAD_IDX = SRC_vocab.stoi['<pad>']
-    TRG_PAD_IDX = TRG_vocab.stoi['<pad>']
-    TRG_SOS_IDX = TRG_vocab.stoi['<sos>']
+    SRC_PAD_IDX = SRC_vocab.stoi["<pad>"]
+    TRG_PAD_IDX = TRG_vocab.stoi["<pad>"]
+    TRG_SOS_IDX = TRG_vocab.stoi["<sos>"]
 
     model = Seq2Seq(enc, dec, SRC_PAD_IDX, TRG_PAD_IDX, TRG_SOS_IDX, device).to(device)
     load_ckpt(model=model, ckpt_path=ckpt_path, device=device)
-    print(f'The model has {count_parameters(model):,} trainable parameters')
+    print(f"The model has {count_parameters(model):,} trainable parameters")
     return model
 
 
-def load_ckpt(model, ckpt_path, device=torch.device('cpu')):
+def load_ckpt(model, ckpt_path, device=torch.device("cpu")):
     model.load_state_dict(torch.load(ckpt_path, map_location=device))
 
 
@@ -431,10 +459,7 @@ if __name__ == "__main__":
     from data_utils import load_vocab
 
     # load vocab
-    _SRC_vocab, _TRG_vocab = load_vocab(
-        'models/SRC_vocab.pkl',
-        'models/TRG_vocab.pkl'
-    )
+    _SRC_vocab, _TRG_vocab = load_vocab("models/SRC_vocab.pkl", "models/TRG_vocab.pkl")
 
     # load model
-    _model = load_model('models/model.pt', _SRC_vocab, _TRG_vocab)
+    _model = load_model("models/model.pt", _SRC_vocab, _TRG_vocab)
