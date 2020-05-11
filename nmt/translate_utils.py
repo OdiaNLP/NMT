@@ -27,7 +27,8 @@ def translate_sentence(sentence, src_vocab, trg_vocab, model, device, max_len=50
         trg_mask = model.make_trg_mask(trg_tensor)
 
         with torch.no_grad():
-            output, attention = model.decoder(trg_tensor, enc_src, trg_mask, src_mask)
+            output, attention = model.decoder(
+                trg_tensor, enc_src, trg_mask, src_mask)
 
         pred_token = output.argmax(2)[:, -1].item()
 
@@ -67,8 +68,10 @@ def display_attention(
         _ = ax.matshow(attention_np, cmap="Oranges")
 
         ax.tick_params(labelsize=12)
-        ax.set_xticklabels([""] + ["<sos>"] + sentence + ["<eos>"], rotation=45)
-        ax.set_yticklabels([""] + translation, fontproperties=get_odia_prop(font_path))
+        ax.set_xticklabels([""] + ["<sos>"] + sentence +
+                           ["<eos>"], rotation=45)
+        ax.set_yticklabels([""] + translation,
+                           fontproperties=get_odia_prop(font_path))
 
         ax.xaxis.set_major_locator(ticker.MultipleLocator(1))
         ax.yaxis.set_major_locator(ticker.MultipleLocator(1))
@@ -97,7 +100,8 @@ if __name__ == "__main__":
     )
 
     # load vocab
-    _SRC_vocab, _TRG_vocab = load_vocab("models/SRC_vocab.pkl", "models/TRG_vocab.pkl")
+    _SRC_vocab, _TRG_vocab = load_vocab(
+        "models/SRC_vocab.pkl", "models/TRG_vocab.pkl")
 
     # load model
     _model = load_model("models/model.pt", _SRC_vocab, _TRG_vocab)

@@ -25,7 +25,7 @@ pyparsing==2.4.6
 python-dateutil==2.8.1
 requests==2.22.0
 sacrebleu==1.4.3
-sentencepiece==0.1.85
+sentencepiece==0.1.86
 six==1.13.0
 soupsieve==1.9.5
 torch==1.4.0

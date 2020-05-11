@@ -1,0 +1,23 @@
+sudo: required
+
+services:
+  - docker
+
+dist: trusty
+
+language: python
+
+python:
+  - 3.8
+
+env:
+  - DOCKER_IMAGE_NAME=MTENGLISH2ODIA/MTE2O DOCKER_IMAGE_VERSION_PREFIX=1.0.0
+
+install:
+  - pip install -r dev-requirements.txt
+
+before_script:
+  - git submodule update --init --remote travis-scripts
+
+after_success:
+  - codecov

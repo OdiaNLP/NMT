@@ -70,14 +70,14 @@ if __name__ == "__main__":
 
     # load tokenizers
     sp_bpe_src, sp_bpe_trg = load_tokenizers(
-        "models/bpe_en.model", "models/bpe_od.model"
+        "nmt/models/bpe_en.model", "nmt/models/bpe_od.model"
     )
 
     # load vocab
-    SRC_vocab, TRG_vocab = load_vocab("models/SRC_vocab.pkl", "models/TRG_vocab.pkl")
+    SRC_vocab, TRG_vocab = load_vocab("nmt/models/SRC_vocab.pkl", "nmt/models/TRG_vocab.pkl")
 
     # load model
-    model = load_model("models/model.pt", SRC_vocab, TRG_vocab)
+    model = load_model("nmt/models/model.pt", SRC_vocab, TRG_vocab)
 
     if responses_path is not None:
         with open(responses_path, "a", encoding="utf-8") as f:

@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/opt/anaconda3/envs/mte2o/bin/python"
+}
