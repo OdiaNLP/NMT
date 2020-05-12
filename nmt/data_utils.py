@@ -2,7 +2,6 @@ import torch
 import sentencepiece as spm
 
 
-# load tokenizer method
 def load_tokenizers(src_tok_path, trg_tok_path):
     sp_bpe_src = spm.SentencePieceProcessor()
     sp_bpe_trg = spm.SentencePieceProcessor()
@@ -13,15 +12,14 @@ def load_tokenizers(src_tok_path, trg_tok_path):
     return sp_bpe_src, sp_bpe_trg
 
 
-# load vocab method
 def load_vocab(src_vocab_path, trg_vocab_path):
     # load src vocab
     with open(src_vocab_path, "rb") as f:
-        SRC_vocab = torch.load(f)
+        src_vocab = torch.load(f)
     # load trg vocab
     with open(trg_vocab_path, "rb") as f:
-        TRG_vocab = torch.load(f)
-    return SRC_vocab, TRG_vocab
+        trg_vocab = torch.load(f)
+    return src_vocab, trg_vocab
 
 
 if __name__ == "__main__":
@@ -29,9 +27,6 @@ if __name__ == "__main__":
     _sp_bpe_src, _sp_bpe_trg = load_tokenizers(
         "models/bpe_en.model", "models/bpe_od.model"
     )
-
-    # load vocab
-    _SRC_vocab, _TRG_vocab = load_vocab("models/SRC_vocab.pkl", "models/TRG_vocab.pkl")
-
-    print(f"src vocab size: {len(_SRC_vocab)}")
-    print(f"trg vocab size: {len(_TRG_vocab)}")
+    _src_vocab, _trg_vocab = load_vocab("models/SRC_vocab.pkl", "models/TRG_vocab.pkl")
+    print(f"src vocab size: {len(_src_vocab)}")
+    print(f"trg vocab size: {len(_trg_vocab)}")

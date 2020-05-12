@@ -1,1 +1,1 @@
-python3 nmt/controller.py
+python3 -m nmt
