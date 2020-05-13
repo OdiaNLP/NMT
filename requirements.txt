@@ -28,7 +28,7 @@ sacrebleu==1.4.3
 sentencepiece==0.1.86
 six==1.13.0
 soupsieve==1.9.5
-torch==1.4.0
+torch==1.4.0+cpu
 torchtext==0.3.1
 tqdm==4.41.1
 typing==3.7.4.1
