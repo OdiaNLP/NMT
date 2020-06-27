@@ -1,3 +1,10 @@
+<title>MTE2O</title>
+        	 	<link rel="stylesheet" media="screen" href="../../static/bootstrap.min.css">
+        	 	<link rel="stylesheet" href="../../static/bootstrap-grid.min.css">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<div class="container">
+<h2>English to Odia </h2>
+
 <form method=post action="">
     <table>
         {% for field in form %}
@@ -7,10 +14,12 @@
         </tr>
         {% endfor %}
     </table>
-    <p><input type=submit value=Translate></p>
+</div>
+<button type="submit" class="btn btn-success">Translate</button>
+</div>
 
-    <p>
-        {% if result != None %}
-    <p> {{ result }} </p>
-    {% endif %}
-    </p>
+<p>
+    {% if result != None %}
+<p> {{ result }} </p>
+{% endif %}
+</p>

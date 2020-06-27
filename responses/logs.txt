@@ -16,3 +16,967 @@ starting app.. [05/12/2020 12:36:48]
 	NEW REQUEST 🤩 @05/12/2020 12:36:59
 	English Text: hjyuu
 	Odia Translation: ବୁଲିଫା
+
+starting app.. [05/31/2020 08:11:14]
+
+	NEW REQUEST 🤩 @05/31/2020 08:11:46
+	English Text: Hi
+	Odia Translation: ହୁର
+
+	NEW REQUEST 🤩 @05/31/2020 08:11:52
+	English Text: Hello
+	Odia Translation: ଗେଲେରୀ
+
+	NEW REQUEST 🤩 @05/31/2020 08:12:34
+	English Text: my journey from ‘I’ to ‘We’
+	Odia Translation: ଏହି ଏଠାରେ ଏକ ହିନ୍ଦୁ ଧର୍ମ ଅନୁସାରେ ଏହି ଏଠାରେ ଏକ ଝରଣା ଯାଏ ।
+
+	NEW REQUEST 🤩 @05/31/2020 08:12:50
+	English Text: My heart is filled to the brim with joy today
+	Odia Translation: ଏହି ପରଦା ମୁଖଣ୍ଡି ର ହୁବଲିଜୀ
+
+	NEW REQUEST 🤩 @05/31/2020 08:13:03
+	English Text: Sushni
+	Odia Translation: ମୁମ୍ବାଇବିନ୍ଦା ର ବାଲ୍ୟକାଳ
+
+	NEW REQUEST 🤩 @05/31/2020 08:13:22
+	English Text: Amaranthus viridis
+	Odia Translation: ଆହୋମନ
+
+	NEW REQUEST 🤩 @05/31/2020 08:13:35
+	English Text: Dark
+	Odia Translation: ରୋଡ ର ସ୍ପୃଓୟେ
+
+	NEW REQUEST 🤩 @05/31/2020 08:13:43
+	English Text: Denmark
+	Odia Translation: ଡେନମାର୍କ
+
+	NEW REQUEST 🤩 @05/31/2020 08:13:53
+	English Text: Definition
+	Odia Translation: ସଂଜ୍ଞା
+
+	NEW REQUEST 🤩 @05/31/2020 08:14:13
+	English Text: Stock market
+	Odia Translation: ଶେୟାର ବଜାର
+
+	NEW REQUEST 🤩 @05/31/2020 08:14:26
+	English Text: Stock markets
+	Odia Translation: ବଜାରଗୁଡ଼ିକରେ ପ୍ରସାର
+
+	NEW REQUEST 🤩 @05/31/2020 08:14:31
+	English Text: Stocks market
+	Odia Translation: ଶେୟାର ବଜାର
+
+	NEW REQUEST 🤩 @05/31/2020 08:14:36
+	English Text: Criticism
+	Odia Translation: ସମାଲୋଚନା
+
+	NEW REQUEST 🤩 @05/31/2020 08:14:42
+	English Text: Critics
+	Odia Translation: ସମାଲୋଚନା
+
+	NEW REQUEST 🤩 @05/31/2020 08:15:11
+	English Text: Alcohol abuse
+	Odia Translation: ବ୍ୟବହାରକାରୀ:Soumendrak/ମଦ ଦୁରୁପଯୋଗ
+
+	NEW REQUEST 🤩 @05/31/2020 08:15:49
+	English Text: Role of the family
+	Odia Translation: ପରିବାରର ଭୂମିକା
+
+	NEW REQUEST 🤩 @05/31/2020 08:15:58
+	English Text: Role of the person
+	Odia Translation: -ତିଲ
+
+	NEW REQUEST 🤩 @05/31/2020 08:16:04
+	English Text: Role of the individual
+	Odia Translation: ଡ୍ୱେନ୍
+
+	NEW REQUEST 🤩 @05/31/2020 08:16:09
+	English Text: Role
+	Odia Translation: ଭୂମିକା
+
+	NEW REQUEST 🤩 @05/31/2020 08:16:28
+	English Text: Role of the families
+	Odia Translation: ଭୂମିକା
+
+	NEW REQUEST 🤩 @05/31/2020 08:16:32
+	English Text: Role of the families
+	Odia Translation: ଭୂମିକା
+
+	NEW REQUEST 🤩 @05/31/2020 08:16:36
+	English Text: Role of the family
+	Odia Translation: ପରିବାରର ଭୂମିକା
+
+	NEW REQUEST 🤩 @05/31/2020 08:16:46
+	English Text: India
+	Odia Translation: ଭାରତ
+
+	NEW REQUEST 🤩 @05/31/2020 08:16:54
+	English Text: Odisha
+	Odia Translation: ଓଡିଶା
+
+	NEW REQUEST 🤩 @05/31/2020 08:17:34
+	English Text: Building in the classroom
+	Odia Translation: ଶ୍ରେଣୀରେ ଗଢ଼ିବା
+
+	NEW REQUEST 🤩 @05/31/2020 08:17:40
+	English Text: Building  classroom
+	Odia Translation: ଶ୍ରେଣୀରେ ଗଢ଼ିବା
+
+	NEW REQUEST 🤩 @05/31/2020 08:17:45
+	English Text: Building  
+	Odia Translation: ଗଢ଼ିବା
+
+	NEW REQUEST 🤩 @05/31/2020 08:17:51
+	English Text: classroom
+	Odia Translation: ଜମରଣ
+
+	NEW REQUEST 🤩 @05/31/2020 08:18:43
+	English Text: Freedom struggle: early days
+	Odia Translation: ସ୍ଵାଧୀନତା ସଂଗ୍ରାମ ରେ ଅଂଶ ଗ୍ରହଣ : ପ୍ରାରମ୍ଭିକ ସ୍ତର
+
+	NEW REQUEST 🤩 @05/31/2020 08:18:53
+	English Text: Freedom struggle
+	Odia Translation: ସ୍ଵାଧୀନତା ସଂଗ୍ରାମ
+
+	NEW REQUEST 🤩 @05/31/2020 08:18:58
+	English Text: Freedom
+	Odia Translation: ସଫ୍ଟୱେ
+
+	NEW REQUEST 🤩 @05/31/2020 08:19:03
+	English Text: Freedom fight
+	Odia Translation: ଘନଶ୍ୟାମ ଯୁଦ୍ଧ
+
+	NEW REQUEST 🤩 @05/31/2020 08:19:09
+	English Text: Freedom struggle: early days
+	Odia Translation: ସ୍ଵାଧୀନତା ସଂଗ୍ରାମ ରେ ଅଂଶ ଗ୍ରହଣ : ପ୍ରାରମ୍ଭିକ ସ୍ତର
+
+	NEW REQUEST 🤩 @05/31/2020 08:19:14
+	English Text: early days
+	Odia Translation: ପ୍ରାରମ୍ଭିକ ଜୀବନ
+
+	NEW REQUEST 🤩 @05/31/2020 08:19:39
+	English Text: struggle
+	Odia Translation: ସ୍ଵାଧୀନତା
+
+	NEW REQUEST 🤩 @05/31/2020 08:19:55
+	English Text: freedom
+	Odia Translation: ଇତିହାସ
+
+	NEW REQUEST 🤩 @05/31/2020 08:19:59
+	English Text: freedom
+	Odia Translation: ଇତିହାସ
+
+	NEW REQUEST 🤩 @05/31/2020 08:20:01
+	English Text: freedoms
+	Odia Translation: ଉତ୍ତର
+
+	NEW REQUEST 🤩 @05/31/2020 08:20:04
+	English Text: answer
+	Odia Translation: ଉତ୍ତର
+
+	NEW REQUEST 🤩 @05/31/2020 08:20:10
+	English Text: questions
+	Odia Translation: ପ୍ରଶ୍ନ
+
+	NEW REQUEST 🤩 @05/31/2020 08:20:14
+	English Text: question
+	Odia Translation: ପ୍ରଶ୍ନ
+
+	NEW REQUEST 🤩 @05/31/2020 08:20:17
+	English Text: answer
+	Odia Translation: ଉତ୍ତର
+
+	NEW REQUEST 🤩 @05/31/2020 08:20:34
+	English Text: The Session’s theme also raises some questions
+	Odia Translation: ଲୋକ ଡାଉନ ଭାହାର
+
+	NEW REQUEST 🤩 @05/31/2020 08:20:36
+	English Text: The Session’s theme also raises some questions
+	Odia Translation: ଲୋକ ଡାଉନ ଭାହାର
+
+	NEW REQUEST 🤩 @05/31/2020 08:20:43
+	English Text: Will you marry me
+	Odia Translation: ଏହି ହ୍ରଦ କୋଇଲି ଘସାକେିନୀ
+
+	NEW REQUEST 🤩 @05/31/2020 08:20:49
+	English Text: I love you
+	Odia Translation: ଆପଣ ମଳକ
+
+	NEW REQUEST 🤩 @05/31/2020 08:20:56
+	English Text: I hate you
+	Odia Translation: ମୁଁ ଆପଣଙ୍କୁ ପଗା
+
+	NEW REQUEST 🤩 @05/31/2020 08:21:02
+	English Text: I doubt you
+	Odia Translation: ଟିଭି ଭିଡିଓ
+
+	NEW REQUEST 🤩 @05/31/2020 08:21:11
+	English Text: How is the day
+	Odia Translation: ଗମନାଗମନ
+
+	NEW REQUEST 🤩 @05/31/2020 08:21:18
+	English Text: transportation
+	Odia Translation: ଯାତାୟାତ
+
+	NEW REQUEST 🤩 @05/31/2020 08:21:32
+	English Text: district
+	Odia Translation: ଜିଲ୍ଲା
+
+	NEW REQUEST 🤩 @05/31/2020 08:21:35
+	English Text: districts
+	Odia Translation: ଓଡିଶା ର କଳାହାଣ୍ଡି ଜିଲ୍ଲା ସମୂହ
+
+	NEW REQUEST 🤩 @05/31/2020 08:21:40
+	English Text: district
+	Odia Translation: ଜିଲ୍ଲା
+
+	NEW REQUEST 🤩 @05/31/2020 08:21:46
+	English Text: common
+	Odia Translation: ବର୍ଣ୍ଣ ବିଡିଓ
+
+	NEW REQUEST 🤩 @05/31/2020 08:21:49
+	English Text: commons
+	Odia Translation: ଏଷ୍ଟ ଯୋଗ ସମାଚାର
+
+	NEW REQUEST 🤩 @05/31/2020 08:21:52
+	English Text: common man
+	Odia Translation: ଛବି ଉତ୍ତୋଳନକାରୀ
+
+	NEW REQUEST 🤩 @05/31/2020 08:21:58
+	English Text: photographer
+	Odia Translation: ଜୀବନୀ
+
+	NEW REQUEST 🤩 @05/31/2020 08:22:05
+	English Text: autobiography
+	Odia Translation: ସ୍ୱାଗତ ଘଟଣା
+
+	NEW REQUEST 🤩 @05/31/2020 08:22:12
+	English Text: born
+	Odia Translation: ଜନ୍ମ ଗ୍ରହଣ
+
+	NEW REQUEST 🤩 @05/31/2020 08:22:24
+	English Text: bornt
+	Odia Translation: ଅବଦାନ
+
+	NEW REQUEST 🤩 @05/31/2020 08:22:30
+	English Text: burn
+	Odia Translation: ପିର
+
+	NEW REQUEST 🤩 @05/31/2020 08:22:32
+	English Text: burnt
+	Odia Translation: ପିରଗଡ
+
+	NEW REQUEST 🤩 @05/31/2020 08:22:36
+	English Text: death
+	Odia Translation: ମୃତ୍ୟୁ
+
+	NEW REQUEST 🤩 @05/31/2020 08:22:38
+	English Text: deaths
+	Odia Translation: ମୃତ୍ୟୁ
+
+	NEW REQUEST 🤩 @05/31/2020 08:22:43
+	English Text: death toll rising
+	Odia Translation: ସିଷ୍ଠିଷ୍ଠ ପାଦ
+
+	NEW REQUEST 🤩 @05/31/2020 08:22:47
+	English Text: death toll
+	Odia Translation: ପରଲୋକ ଗମନ
+
+	NEW REQUEST 🤩 @05/31/2020 08:23:29
+	English Text: Daitari Nayak chiselled through the mountain literally with his hands and carved a three kilometers long canal in his village
+	Odia Translation: ଏହା ଏକ ମନ୍ଦିର । ମାତ୍ର ୧୨ ବର୍ଷ ଧରି ପର୍ଯ୍ୟଟକ ଓ ପର୍ଯ୍ୟଟକ ଆକର୍ଷଣ ଭାବେ ମଧ୍ୟ ପର୍ଯ୍ୟଟକ ଆକର୍ଷଣ କରିବାକୁ ଆସିବାକୁ ଯୋଗ୍ୟ ।
+
+	NEW REQUEST 🤩 @05/31/2020 08:23:39
+	English Text: This is a temple
+	Odia Translation: ଏହି ମନ୍ଦିର ର ପରିକଳ୍ପନା କରାଯାଇଛି
+
+	NEW REQUEST 🤩 @05/31/2020 08:23:44
+	English Text: temple
+	Odia Translation: ମନ୍ଦିର
+
+	NEW REQUEST 🤩 @05/31/2020 08:23:53
+	English Text: I worship in temple
+	Odia Translation: ମନ୍ଦିର ସମୂହ
+
+	NEW REQUEST 🤩 @05/31/2020 08:24:07
+	English Text: I do not like temple
+	Odia Translation: ମନ୍ଦିର ଟି ମନ୍ତର ମନ୍ତ୍ର ଅଟନ୍ତି
+
+	NEW REQUEST 🤩 @05/31/2020 08:24:20
+	English Text: I do not believe in god
+	Odia Translation: ଆପଣଙ୍କ ଉପରେ ଚାହାଁଙ୍କ ଉପରେ ଚାପ କରନ୍ତୁ
+
+	NEW REQUEST 🤩 @05/31/2020 08:24:31
+	English Text: who are you
+	Odia Translation: ଆପଣଙ୍କ ସହିତ କରନ୍ତି
+
+	NEW REQUEST 🤩 @05/31/2020 08:24:37
+	English Text: do i know you
+	Odia Translation: ମୁଁ ତମକୁ ନଜର
+
+	NEW REQUEST 🤩 @05/31/2020 08:24:47
+	English Text: i do not like you
+	Odia Translation: ମୁଁ ଆପଣଙ୍କୁ ଭଲ ପାଯାଇଛନ୍ତି
+
+	NEW REQUEST 🤩 @05/31/2020 08:24:53
+	English Text: i do  like you
+	Odia Translation: ମୁଁ ଆପଣଙ୍କୁ ଭଲ ପାଯାଇଛନ୍ତି
+
+	NEW REQUEST 🤩 @05/31/2020 08:24:57
+	English Text: i like you
+	Odia Translation: ମୁଁ ଆପଣଙ୍କୁ ଭଲ ପାଉଛି
+
+	NEW REQUEST 🤩 @05/31/2020 08:25:02
+	English Text: i love you
+	Odia Translation: ମୁଁ ତମକୁ ଭଲପାଏ
+
+	NEW REQUEST 🤩 @05/31/2020 08:25:10
+	English Text: i love you 
+	Odia Translation: ମୁଁ ତମକୁ ଭଲପାଏ
+
+	NEW REQUEST 🤩 @05/31/2020 08:25:15
+	English Text: I love you
+	Odia Translation: ଆପଣ ମଳକ
+
+	NEW REQUEST 🤩 @05/31/2020 08:25:20
+	English Text: i love you
+	Odia Translation: ମୁଁ ତମକୁ ଭଲପାଏ
+
+	NEW REQUEST 🤩 @05/31/2020 08:26:35
+	English Text: i Love you
+	Odia Translation: ମୁଁ ଆପଣଙ୍କ ପାଇଁ ବହୁତ ଭନ୍ତୁ
+
+	NEW REQUEST 🤩 @05/31/2020 08:26:49
+	English Text: I LOVE YOU VERY MUCH
+	Odia Translation: RUCNSS RanCE
+
+starting app.. [05/31/2020 08:28:39]
+
+starting app.. [05/31/2020 08:29:28]
+
+	NEW REQUEST 🤩 @05/31/2020 08:37:01
+	English Text: I LOVE YOU
+	Odia Translation: ଆପଣ ବର୍ତ୍ତମାନର ଗୋଟିଏ ଭୁଲଣ୍ଟର
+
+	NEW REQUEST 🤩 @05/31/2020 08:37:07
+	English Text: i love you
+	Odia Translation: ମୁଁ ତମକୁ ଭଲପାଏ
+
+	NEW REQUEST 🤩 @05/31/2020 08:37:12
+	English Text: i love all
+	Odia Translation: ମୁଁ ତମ ନବା
+
+	NEW REQUEST 🤩 @05/31/2020 08:37:17
+	English Text: i love you all
+	Odia Translation: ମୁଁ ଆପଣଙ୍କୁ ବହୁତ ଭଲପାଏ
+
+	NEW REQUEST 🤩 @05/31/2020 08:37:24
+	English Text: i love you very much
+	Odia Translation: ଆପଣଙ୍କୁ ବହୁତ ଭଲ ପାଏ
+
+	NEW REQUEST 🤩 @05/31/2020 08:37:30
+	English Text: i love you very very much
+	Odia Translation: ଆପଣଙ୍କୁ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ
+
+	NEW REQUEST 🤩 @05/31/2020 08:37:55
+	English Text: i love you very much
+	Odia Translation: ଆପଣଙ୍କୁ ବହୁତ ଭଲ ପାଏ
+
+	NEW REQUEST 🤩 @05/31/2020 08:38:07
+	English Text: hi
+	Odia Translation: ହେ
+
+	NEW REQUEST 🤩 @05/31/2020 08:53:14
+	English Text: i love you
+	Odia Translation: ମୁଁ ତମକୁ ଭଲପାଏ
+
+	NEW REQUEST 🤩 @05/31/2020 08:53:18
+	English Text: i like you
+	Odia Translation: ମୁଁ ଆପଣଙ୍କୁ ଭଲ ପାଉଛି
+
+	NEW REQUEST 🤩 @05/31/2020 08:53:26
+	English Text: i love you very much
+	Odia Translation: ଆପଣଙ୍କୁ ବହୁତ ଭଲ ପାଏ
+
+	NEW REQUEST 🤩 @05/31/2020 08:53:32
+	English Text: i love you very very much
+	Odia Translation: ଆପଣଙ୍କୁ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ
+
+	NEW REQUEST 🤩 @05/31/2020 08:53:38
+	English Text: i love you very very very much
+	Odia Translation: ଆପଣଙ୍କୁ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ
+
+	NEW REQUEST 🤩 @05/31/2020 08:53:50
+	English Text: i love you very much
+	Odia Translation: ଆପଣଙ୍କୁ ବହୁତ ଭଲ ପାଏ
+
+	NEW REQUEST 🤩 @05/31/2020 08:59:08
+	English Text: Hi
+	Odia Translation: ହୁର
+
+	NEW REQUEST 🤩 @05/31/2020 08:59:11
+	English Text: hi
+	Odia Translation: ହେ
+
+	NEW REQUEST 🤩 @05/31/2020 09:04:21
+	English Text: hi
+	Odia Translation: ହେ
+
+	NEW REQUEST 🤩 @05/31/2020 09:04:26
+	English Text: hi
+	Odia Translation: ହେ
+
+	NEW REQUEST 🤩 @05/31/2020 09:04:31
+	English Text: i love you
+	Odia Translation: ମୁଁ ତମକୁ ଭଲପାଏ
+
+	NEW REQUEST 🤩 @05/31/2020 09:04:38
+	English Text: i lioke you
+	Odia Translation: ମୁଁ ତମକୁଳର ତୁର
+
+	NEW REQUEST 🤩 @05/31/2020 09:04:43
+	English Text: i like you
+	Odia Translation: ମୁଁ ଆପଣଙ୍କୁ ଭଲ ପାଉଛି
+
+	NEW REQUEST 🤩 @05/31/2020 10:05:17
+	English Text: i love you
+	Odia Translation: ମୁଁ ତମକୁ ଭଲପାଏ
+
+	NEW REQUEST 🤩 @05/31/2020 10:06:12
+	English Text: i love you very much
+	Odia Translation: ଆପଣଙ୍କୁ ବହୁତ ଭଲ ପାଏ
+
+	NEW REQUEST 🤩 @05/31/2020 10:06:34
+	English Text: i love you very very much
+	Odia Translation: ଆପଣଙ୍କୁ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ ବହୁତ
+
+starting app.. [06/20/2020 23:22:48]
+
+	NEW REQUEST 🤩 @06/20/2020 23:23:26
+	English Text: hi
+	Odia Translation: ହେ
+
+	NEW REQUEST 🤩 @06/20/2020 23:23:35
+	English Text: who are you
+	Odia Translation: ଆପଣଙ୍କ ସହିତ କରନ୍ତି
+
+	NEW REQUEST 🤩 @06/20/2020 23:23:41
+	English Text: who
+	Odia Translation: କି
+
+	NEW REQUEST 🤩 @06/20/2020 23:23:45
+	English Text: when
+	Odia Translation: ବ୍ୟକ୍ତିଗତ
+
+	NEW REQUEST 🤩 @06/20/2020 23:23:50
+	English Text: when
+	Odia Translation: ବ୍ୟକ୍ତିଗତ
+
+	NEW REQUEST 🤩 @06/20/2020 23:23:56
+	English Text: When
+	Odia Translation: ପିଷ୍ଟ୍ରି
+
+	NEW REQUEST 🤩 @06/20/2020 23:24:04
+	English Text: hard
+	Odia Translation: ମୁସ୍ତା
+
+	NEW REQUEST 🤩 @06/20/2020 23:24:09
+	English Text: hard time
+	Odia Translation: ସମୟ ସମୟ ସମୟ ସମୟ ସମୟ
+
+	NEW REQUEST 🤩 @06/20/2020 23:24:14
+	English Text: time
+	Odia Translation: ସମୟ
+
+	NEW REQUEST 🤩 @06/20/2020 23:24:17
+	English Text: times
+	Odia Translation: ସାରଣୀ
+
+	NEW REQUEST 🤩 @06/20/2020 23:24:23
+	English Text: time table
+	Odia Translation: ସମୟ ସାରଣୀ
+
+starting app.. [06/21/2020 00:19:02]
+
+	NEW REQUEST 🤩 @06/21/2020 00:19:07
+	English Text: time table
+	Odia Translation: ସମୟ ସାରଣୀ
+
+	NEW REQUEST 🤩 @06/21/2020 00:19:39
+	English Text: time table
+	Odia Translation: ସମୟ ସାରଣୀ
+
+starting app.. [06/21/2020 00:36:22]
+
+	NEW REQUEST 🤩 @06/21/2020 00:36:36
+	English Text: time table
+	Odia Translation: ସମୟ ସାରଣୀ
+
+	NEW REQUEST 🤩 @06/21/2020 00:37:18
+	English Text: time table
+	Odia Translation: ସମୟ ସାରଣୀ
+
+starting app.. [06/21/2020 00:37:47]
+
+starting app.. [06/21/2020 00:38:32]
+
+starting app.. [06/21/2020 00:38:33]
+
+	NEW REQUEST 🤩 @06/21/2020 00:38:48
+	English Text: time table
+	Odia Translation: ସମୟ ସାରଣୀ
+
+	NEW REQUEST 🤩 @06/21/2020 00:41:20
+	English Text: time table
+	Odia Translation: ସମୟ ସାରଣୀ
+
+	NEW REQUEST 🤩 @06/21/2020 00:41:25
+	English Text: hi
+	Odia Translation: ହେ
+
+starting app.. [06/21/2020 00:42:45]
+
+starting app.. [06/21/2020 00:42:46]
+
+	NEW REQUEST 🤩 @06/21/2020 00:42:54
+	English Text: hi
+	Odia Translation: ହେ
+
+starting app.. [06/21/2020 00:45:25]
+
+	NEW REQUEST 🤩 @06/21/2020 00:46:30
+	English Text: hi
+	Odia Translation: ହେ
+
+starting app.. [06/21/2020 00:49:25]
+
+starting app.. [06/21/2020 00:49:26]
+
+	NEW REQUEST 🤩 @06/21/2020 00:49:38
+	English Text: as
+	Odia Translation: ଭାବରେ
+
+	NEW REQUEST 🤩 @06/21/2020 00:49:43
+	English Text: asasas
+	Odia Translation: ସବୁ
+
+	NEW REQUEST 🤩 @06/21/2020 00:49:45
+	English Text: asasas
+	Odia Translation: ସବୁ
+
+	NEW REQUEST 🤩 @06/21/2020 00:49:48
+	English Text: asasasasas
+	Odia Translation: ସବୁ
+
+	NEW REQUEST 🤩 @06/21/2020 00:49:53
+	English Text: hau
+	Odia Translation: ହେ
+
+	NEW REQUEST 🤩 @06/21/2020 00:49:57
+	English Text: hau
+	Odia Translation: ହେ
+
+starting app.. [06/21/2020 00:50:56]
+
+starting app.. [06/21/2020 00:50:57]
+
+	NEW REQUEST 🤩 @06/21/2020 00:51:02
+	English Text: hau
+	Odia Translation: ହେ
+
+	NEW REQUEST 🤩 @06/21/2020 00:51:04
+	English Text: hau
+	Odia Translation: ହେ
+
+	NEW REQUEST 🤩 @06/21/2020 00:54:37
+	English Text: hau
+	Odia Translation: ହେ
+
+	NEW REQUEST 🤩 @06/21/2020 00:54:49
+	English Text: motherfucker
+	Odia Translation: ପଟ୍
+
+	NEW REQUEST 🤩 @06/21/2020 00:54:57
+	English Text: bullshit
+	Odia Translation: ବୁର୍ଟ୍ସନ୍
+
+	NEW REQUEST 🤩 @06/21/2020 00:55:05
+	English Text: i love you
+	Odia Translation: ମୁଁ ତମକୁ ଭଲପାଏ
+
+	NEW REQUEST 🤩 @06/21/2020 00:55:17
+	English Text: i love you more than anyone else
+	Odia Translation: ତାହା ବନ୍ଦ ହେଇଯାଇଥିବା ଦୁର୍ବଳୁଅନ୍ତୁ
+
+	NEW REQUEST 🤩 @06/21/2020 00:55:28
+	English Text: i hate you
+	Odia Translation: ମୁଁ ଆପଣଙ୍କୁ ଭଲ ପଚାର
+
+	NEW REQUEST 🤩 @06/21/2020 00:55:38
+	English Text: say
+	Odia Translation: ଅବସ୍ଥିତି
+
+	NEW REQUEST 🤩 @06/21/2020 00:55:43
+	English Text: stay
+	Odia Translation: ପରବର୍ତୀ ପଥ
+
+	NEW REQUEST 🤩 @06/21/2020 00:55:49
+	English Text: kill
+	Odia Translation: ଅନିଦାର ହତ୍ୟା
+
+	NEW REQUEST 🤩 @06/21/2020 00:55:55
+	English Text: killed by me
+	Odia Translation: ପବିତ୍ର କାର୍ଉଥିବାରୁ ସମସ୍ତେ
+
+	NEW REQUEST 🤩 @06/21/2020 00:56:03
+	English Text: cock
+	Odia Translation: ନ୍ୟାଲ କରନ୍ତୁ
+
+	NEW REQUEST 🤩 @06/21/2020 00:56:10
+	English Text: random
+	Odia Translation: ପଠାନ୍ତୁ
+
+starting app.. [06/21/2020 01:02:53]
+
+starting app.. [06/21/2020 01:02:54]
+
+	NEW REQUEST 🤩 @06/21/2020 01:03:01
+	English Text: random
+	Odia Translation: ପଠାନ୍ତୁ
+
+starting app.. [06/21/2020 18:52:37]
+
+starting app.. [06/21/2020 18:52:38]
+
+	NEW REQUEST 🤩 @06/21/2020 18:52:42
+	English Text: knowledge is power
+	Odia Translation: ଜ୍ଞାନ ଉତ୍ପର୍ସ ଜ୍ଞାନ
+
+	NEW REQUEST 🤩 @06/21/2020 18:52:55
+	English Text: free like knowledge
+	Odia Translation: ଜ୍ଞାନେଶ୍ଵରୀ
+
+	NEW REQUEST 🤩 @06/21/2020 18:53:04
+	English Text: poetic justice
+	Odia Translation: କବି ଓ ଶବ୍ଦ ର ଉଦାହରଣ
+
+	NEW REQUEST 🤩 @06/21/2020 18:53:14
+	English Text: digital rights
+	Odia Translation: ଡିଜିଉଡଗୁଡିକ
+
+	NEW REQUEST 🤩 @06/21/2020 18:53:22
+	English Text: oral languages
+	Odia Translation: ନାମଶୀଳ
+
+	NEW REQUEST 🤩 @06/21/2020 18:57:23
+	English Text: hi
+	Odia Translation: ହେ
+
+	NEW REQUEST 🤩 @06/21/2020 18:58:34
+	English Text: This is a Historic Day in Odia Language
+	Odia Translation: ଏଇତିହାସିକ ପରମ୍ପରା
+
+	NEW REQUEST 🤩 @06/21/2020 18:58:42
+	English Text: Odia Language
+	Odia Translation: ଓଡିଆ ଭାଷା
+
+	NEW REQUEST 🤩 @06/21/2020 18:58:49
+	English Text: This is a Historic Day
+	Odia Translation: ଏଇତିହାସିକ ଜାହାଜ
+
+	NEW REQUEST 🤩 @06/21/2020 18:59:01
+	English Text: Historic Day
+	Odia Translation: ଏଇତିହାସିକ ପରମ୍ପରା
+
+	NEW REQUEST 🤩 @06/21/2020 18:59:12
+	English Text: historic day
+	Odia Translation: ବାଢ଼ତା
+
+	NEW REQUEST 🤩 @06/21/2020 18:59:33
+	English Text: this is a historic day in odia language
+	Odia Translation: ଏହି ଭାଷା ରେ ପାରମ୍ପରିକ ଖାଦ୍ୟ ଭାବେ ଆଇନ ବଳଭଦ୍ର।
+
+	NEW REQUEST 🤩 @06/21/2020 18:59:45
+	English Text: odia language
+	Odia Translation: ଚିହ୍ନ କୌଣସି ଦେଖନ୍ତୁ
+
+	NEW REQUEST 🤩 @06/21/2020 19:00:09
+	English Text: proud of you all
+	Odia Translation: ଆପଣଙ୍କର ପିଲାପଲିଛି
+
+	NEW REQUEST 🤩 @06/21/2020 19:03:56
+	English Text: Excited in anticipation
+	Odia Translation: ଗୁପ୍ତଶବ୍ଦରକ୍ଷିତ ସମ୍ପତ୍ତି
+
+	NEW REQUEST 🤩 @06/21/2020 19:04:04
+	English Text: excited in anticipation
+	Odia Translation: ଫାଇଲ ଅଭିଯାନରେଙ୍କ ପ୍ରଚାର
+
+	NEW REQUEST 🤩 @06/21/2020 19:04:12
+	English Text: Excited in Anticipation
+	Odia Translation: ପୁନଃ-କ ରେକର୍ଡ କରିବା
+
+	NEW REQUEST 🤩 @06/21/2020 19:10:10
+	English Text: haire
+	Odia Translation: ଫୁଲ
+
+	NEW REQUEST 🤩 @06/21/2020 19:10:14
+	English Text: hi
+	Odia Translation: ହେ
+
+	NEW REQUEST 🤩 @06/21/2020 19:11:01
+	English Text: i love you
+	Odia Translation: ମୁଁ ତମକୁ ଭଲପାଏ
+
+	NEW REQUEST 🤩 @06/21/2020 19:11:17
+	English Text: i love you very much
+	Odia Translation: ଆପଣଙ୍କୁ ବହୁତ ଭଲ ପାଏ
+
+	NEW REQUEST 🤩 @06/21/2020 19:11:41
+	English Text: good morning
+	Odia Translation: ସବୁ
+
+	NEW REQUEST 🤩 @06/21/2020 19:11:46
+	English Text: Good morning
+	Odia Translation: ବାହାର କରନ୍ତୁ
+
+	NEW REQUEST 🤩 @06/21/2020 19:11:51
+	English Text: Good Morning
+	Odia Translation: ଏହା ମୁଖ୍ୟ ଆକର୍ଷଣ
+
+	NEW REQUEST 🤩 @06/21/2020 19:11:59
+	English Text: this is the main attraction
+	Odia Translation: ପୁନଶ୍ଚକ କଥା ଉଲ୍ଲେଖ
+
+	NEW REQUEST 🤩 @06/21/2020 19:12:06
+	English Text: main attraction
+	Odia Translation: ପୁନଶ୍ଚକ କଥା ଉଲ୍ଲେଖ
+
+	NEW REQUEST 🤩 @06/21/2020 19:12:10
+	English Text: Main attraction
+	Odia Translation: ଦେଇଥିବା
+
+	NEW REQUEST 🤩 @06/21/2020 19:12:15
+	English Text: Main Attraction
+	Odia Translation: ଆକର୍ଷଣ
+
+	NEW REQUEST 🤩 @06/21/2020 19:12:19
+	English Text: Attraction
+	Odia Translation: ଯାତାୟାତ
+
+	NEW REQUEST 🤩 @06/21/2020 19:12:23
+	English Text: attraction
+	Odia Translation: ବାର୍ତ୍ତା
+
+	NEW REQUEST 🤩 @06/21/2020 19:12:29
+	English Text: message
+	Odia Translation: ବାର୍ତ୍ତା
+
+	NEW REQUEST 🤩 @06/21/2020 19:12:34
+	English Text: Message
+	Odia Translation: ବାର୍ତ୍ତା
+
+	NEW REQUEST 🤩 @06/21/2020 19:12:45
+	English Text: Messages
+	Odia Translation: ଅ ବିଜ୍ଞାନ
+
+	NEW REQUEST 🤩 @06/21/2020 19:12:48
+	English Text: Message
+	Odia Translation: ବାର୍ତ୍ତା
+
+	NEW REQUEST 🤩 @06/21/2020 19:13:01
+	English Text: dog
+	Odia Translation: ଦ୍ୱାର
+
+	NEW REQUEST 🤩 @06/21/2020 19:13:04
+	English Text: dogs
+	Odia Translation: ଡିତମାନେ
+
+	NEW REQUEST 🤩 @06/21/2020 19:13:08
+	English Text: Dogs
+	Odia Translation: ଟ୍ରିମ୍
+
+	NEW REQUEST 🤩 @06/21/2020 19:13:12
+	English Text: Cat
+	Odia Translation: ଚାପେଳ
+
+	NEW REQUEST 🤩 @06/21/2020 19:13:15
+	English Text: Cats
+	Odia Translation: ଉଦାହରଣ
+
+	NEW REQUEST 🤩 @06/21/2020 19:13:19
+	English Text: Example
+	Odia Translation: ଉଦାହରଣ
+
+	NEW REQUEST 🤩 @06/21/2020 19:13:22
+	English Text: Examples
+	Odia Translation: ଉଦାହରଣ
+
+	NEW REQUEST 🤩 @06/21/2020 19:13:25
+	English Text: examples
+	Odia Translation: ଉଦାହରଣ
+
+	NEW REQUEST 🤩 @06/21/2020 19:13:28
+	English Text: example
+	Odia Translation: ଉଦାହରଣ
+
+	NEW REQUEST 🤩 @06/21/2020 19:14:03
+	English Text: how are you
+	Odia Translation: ଆପଣଙ୍କ ପାଇଁ ବୁଝୁନା
+
+	NEW REQUEST 🤩 @06/21/2020 19:14:10
+	English Text: How are you
+	Odia Translation: ଯାତ୍ରାପଥ
+
+	NEW REQUEST 🤩 @06/21/2020 19:14:14
+	English Text: How are you doing
+	Odia Translation: ଚାହିଟି ଯଶୋଧ
+
+	NEW REQUEST 🤩 @06/21/2020 19:14:22
+	English Text: How have you done
+	Odia Translation: ଆପଣ ସୂଚନା
+
+	NEW REQUEST 🤩 @06/21/2020 19:14:29
+	English Text: I am not feeling well
+	Odia Translation: ବିଶ୍ୱ ମସଜିଦ ଗତିକୃତ କରନ୍ତୁ
+
+	NEW REQUEST 🤩 @06/21/2020 19:14:42
+	English Text: bhubaneswar is an awesome city
+	Odia Translation: ଜଗଦୀପୀୟସା ର ପ୍ରତିଷ୍ଠାତା ରାଜାଙ୍କ ଚିତ୍ର
+
+	NEW REQUEST 🤩 @06/21/2020 19:14:47
+	English Text: Bhubaneswar is an awesome city
+	Odia Translation: ଚିତ୍ରାକୁଟ ସହର ଏକ ସୁନ୍ଦର ସହର ।
+
+	NEW REQUEST 🤩 @06/21/2020 19:14:55
+	English Text: This is an awesome city
+	Odia Translation: ଏହା ଏକ ସହର ।
+
+	NEW REQUEST 🤩 @06/21/2020 19:15:00
+	English Text: This is a city
+	Odia Translation: ଏହା ଏକ ସହର ।
+
+	NEW REQUEST 🤩 @06/21/2020 19:15:19
+	English Text: I like this city
+	Odia Translation: ଇନ୍ନ ସହର ସବୁ
+
+	NEW REQUEST 🤩 @06/21/2020 19:15:23
+	English Text: come
+	Odia Translation: ବାହାରକୁ ଆସିଯାଇଥିବା
+
+	NEW REQUEST 🤩 @06/21/2020 19:15:28
+	English Text: come outside
+	Odia Translation: ବାହାରକୁ ବାହାରେ
+
+	NEW REQUEST 🤩 @06/21/2020 19:15:40
+	English Text: it comes outside
+	Odia Translation: ଏଠାରେ ଜଳବାଯୁ
+
+	NEW REQUEST 🤩 @06/21/2020 19:15:46
+	English Text: it come outside
+	Odia Translation: ଅବବତ ବାହାରେ
+
+	NEW REQUEST 🤩 @06/21/2020 19:15:51
+	English Text: come outside
+	Odia Translation: ବାହାରକୁ ବାହାରେ
+
+	NEW REQUEST 🤩 @06/21/2020 19:26:56
+	English Text: who are you
+	Odia Translation: ଆପଣଙ୍କ ସହିତ କରନ୍ତି
+
+	NEW REQUEST 🤩 @06/21/2020 19:27:20
+	English Text: hi
+	Odia Translation: ହେ
+
+	NEW REQUEST 🤩 @06/21/2020 19:27:47
+	English Text: hello
+	Odia Translation: ହେ
+
+	NEW REQUEST 🤩 @06/21/2020 19:48:59
+	English Text: hi
+	Odia Translation: ହେ
+
+	NEW REQUEST 🤩 @06/21/2020 19:49:44
+	English Text: Initiate the sequence
+	Odia Translation: ପଛ ଖର୍ଚ୍ଚ କେଙ୍କିଙ୍ଗ ପରବର୍ତ୍ତୀ
+
+	NEW REQUEST 🤩 @06/21/2020 19:50:27
+	English Text: preparing for a cyclone
+	Odia Translation: ପ୍ରତିଦାନ ଦେବା ଯୋଗୁଁ ଆପଣଙ୍କୁ
+
+	NEW REQUEST 🤩 @06/21/2020 19:51:04
+	English Text: cyclone
+	Odia Translation: ସାଇଟିରେ ଚଢ଼ି
+
+	NEW REQUEST 🤩 @06/21/2020 19:51:08
+	English Text: Cyclone
+	Odia Translation: ଫୋରେ ତୋପ
+
+	NEW REQUEST 🤩 @06/21/2020 19:51:49
+	English Text: the water of Mahanadi is unclean
+	Odia Translation: ଜୋଧପୁର ଠାରେ ମହାନଦୀ ର ଅବହେଁ ତାଙ୍କୁ 75 କିଲୋମିଟର ଦୂର ରେ ଅବନ୍ତର ଭାଇ ଙ୍କ ଅବହେଁ ନଦୀ ର ଅବନ୍ତର ଭିଡ ଲଜେସନ ଅଧୀନ ରେ ଅବନ୍ତର
+
+	NEW REQUEST 🤩 @06/21/2020 19:52:21
+	English Text: i love you
+	Odia Translation: ମୁଁ ତମକୁ ଭଲପାଏ
+
+	NEW REQUEST 🤩 @06/21/2020 19:52:48
+	English Text: i hate you
+	Odia Translation: ମୁଁ ଆପଣଙ୍କୁ ଭଲ ପଚାର
+
+	NEW REQUEST 🤩 @06/21/2020 19:53:20
+	English Text: disaster
+	Odia Translation: ଲିଙ୍ଗ
+
+	NEW REQUEST 🤩 @06/21/2020 19:53:26
+	English Text: disaster management
+	Odia Translation: ଲିଙ୍ଗternational ପୁନଃ-କର୍କ
+
+	NEW REQUEST 🤩 @06/21/2020 19:53:36
+	English Text: Disaster
+	Odia Translation: କ୍ଷ୍ଊ
+
+	NEW REQUEST 🤩 @06/21/2020 19:54:10
+	English Text: disaster
+	Odia Translation: ଲିଙ୍ଗ
+
+	NEW REQUEST 🤩 @06/21/2020 19:55:04
+	English Text: Ratha Jatra
+	Odia Translation: ଲିଚୁ ବଗିଚା
+
+	NEW REQUEST 🤩 @06/21/2020 19:55:13
+	English Text: ratha yatra
+	Odia Translation: ବଳକା କୁଟୀର
+
+	NEW REQUEST 🤩 @06/21/2020 19:55:26
+	English Text: i will eat
+	Odia Translation: ମୁଁ ତମକୁ ଯାଇପାରେ
+
+	NEW REQUEST 🤩 @06/21/2020 19:57:34
+	English Text: this is honour to democracy at its best
+	Odia Translation: ବାସୁଦେବ୍ୟା ସ୍ଥଳ ।
+
+	NEW REQUEST 🤩 @06/21/2020 19:58:05
+	English Text: It was a great feeling
+	Odia Translation: ମନ୍ଦିର ଭିତରେ ଥିବା ଆବିଷ୍କାର
+
+	NEW REQUEST 🤩 @06/21/2020 19:58:17
+	English Text: I am sure you did.
+	Odia Translation: ଆପଣ ନିଜର ବନ୍ଧୁତା ପାପଜ୍
+
+	NEW REQUEST 🤩 @06/21/2020 19:58:37
+	English Text: Amidst hectic Election engagements, many people asked me a flurry of questions on why I had gone up to Kedarnath
+	Odia Translation: ତାଙ୍କ ନିଜ ବିବାହକାରୀ ଉତ୍ଥାନକାରୀ
+
+	NEW REQUEST 🤩 @06/21/2020 19:58:48
+	English Text: Amidst hectic Election engagements, many people asked me a flurry of questions on why I had gone up to Kedarnath
+	Odia Translation: ତାଙ୍କ ନିଜ ବିବାହକାରୀ ଉତ୍ଥାନକାରୀ
+
+	NEW REQUEST 🤩 @06/21/2020 19:58:57
+	English Text: You have every right
+	Odia Translation: ନିଜ ପ୍ରତି ପ୍ରତି ସବୁ
+
+	NEW REQUEST 🤩 @06/21/2020 20:11:39
+	English Text: you have every right
+	Odia Translation: ସମସ୍ତେ କରନ୍ତୁ
