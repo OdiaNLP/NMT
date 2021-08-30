@@ -32,7 +32,7 @@ torch==1.4.0+cpu
 torchtext==0.3.1
 tqdm==4.41.1
 typing==3.7.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==0.16.0
 wrapt==1.11.2
 WTForms==2.2.1
